@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Guitar Store</h1>
 
-## Getting Started
+## Table of Contents:
+---
 
-First, run the development server:
+- [Description and Context](#description-and-context)
+- [User Guide](#user-guide)
+- [Technologies and Dependencies](#technologies-and-dependencies)
+- [Author(s)](#authors)
+- [Video](#video)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Description and Context
+---
+Guitar Store. A project developed for a guitar store using React, Next, mongoDB y Strapi.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## User Guide
+---
+Find your guitar and Rock and Roll.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Technologies and Dependencies
+---
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="40" height="40"/> </a><a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="40" height="40"/></a><a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="MongoDB" width="40" height="40"/></a><a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="MongoDB" width="40" height="40"/></a></p>
+## Author(s)
+---
+<a href="https://github.com/dar96" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/100532984?s=400&u=9e96b8005857d1df800396d8efa80eb0ca16b45e&v=4" alt="dar96" width="40" height="40"/> </a>
+## Video
+---
 
-## Learn More
+https://github.com/dar96/guitarla_next/assets/100532984/0b853072-8ce1-4aa1-93f0-ab4e22180059
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
